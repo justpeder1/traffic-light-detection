@@ -38,7 +38,5 @@ Thumbs.db
 # Project specific
 runs/
 temp/
-*.pt
-!best (4).pt  # Include your model file
 videodetect/
 processed_video.mp4 
